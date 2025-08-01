@@ -4,8 +4,7 @@
 
 它特别适合需要为二手商品（如书籍、游戏等）快速制作包含价格、条码和详细信息的标签的场景。
 
-![Application Screenshot](https://i.imgur.com/example.png)  
-*(建议替换为实际的应用截图)*
+![Application Screenshot](./example.png)  
 
 ---
 
