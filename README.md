@@ -4,7 +4,7 @@
 
 它特别适合需要为二手商品（如书籍、游戏等）快速制作包含价格、条码和详细信息的标签的场景。
 
-![Application Screenshot](./example.png)  
+![Application Screenshot](./UI.png)  
 
 ---
 
@@ -65,3 +65,6 @@ python main.py
     * 点击 "载入模板" 从 `.json` 文件恢复之前的设计。
 5.  **导出图像:**
     * 点击 "导出图片"，将当前设计的贴纸保存为一个 PNG 文件。
+### 示例
+![Application Screenshot](./example1.png)  
+![Application Screenshot](./example2.png)  
