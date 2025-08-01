@@ -31,17 +31,8 @@
 
 ### 安装与运行
 
-#### 1. 环境准备
 
-* 确保您已安装 Python 3.x。
-* (可选) 建议创建一个虚拟环境来管理依赖。
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-
-#### 2. 安装依赖库
+#### 1. 安装依赖库
 
 应用程序依赖于 `Pillow` 和 `python-barcode` 库。您可以通过 `pip` 和 `requirements.txt` 文件来安装它们。
 
@@ -49,15 +40,13 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-#### 3. 运行程序
+#### 2. 运行程序
 
 直接执行 Python 脚本即可启动应用程序。
 
 ```bash
-python sticker_generator.py
+python main.py
 ```
-*(请将 `sticker_generator.py` 替换为您保存脚本的实际文件名)*
-
 ---
 
 ### 使用指南
